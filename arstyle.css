@@ -1,0 +1,45 @@
+#text1 {
+    
+    display: inline-block;
+    font-size: 18px;
+    width: 20vw;
+    margin: 2vh;
+
+}
+
+#image1 {
+   
+    width: 15vw;
+    margin: 3vw;
+
+}
+
+#text2 {
+    
+    display: inline-block;
+    font-size: 13.5pt;
+    width: 20vw;
+    margin: 2vh;
+
+}
+
+#image2 {
+   
+    width: 15vw;
+    margin: 3vw;
+
+}
+
+
+h1 {
+    
+    font-size: 5rem;
+    margin-left:30%; 
+}
+
+h2 {
+    
+    font-size: 2em;  
+    margin-left:30%;  
+    
+}
